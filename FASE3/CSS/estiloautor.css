@@ -28,8 +28,8 @@ header{
 }
 
 #Contenido{
-    background:white;
-    color:black;
+    background:#3E065F;
+    color:white;
     float:left;
     width: calc(80% - 10px);
     min-height: 500px;
@@ -74,8 +74,4 @@ ul , ol{
 }
 .Menu li:hover > ul{
      display: block;
-}
-.circular img{
-    border-radius: 50%;
-
 }

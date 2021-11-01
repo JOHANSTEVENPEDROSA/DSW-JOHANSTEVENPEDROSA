@@ -26,14 +26,17 @@ header{
     text-align: center;
     line-height: 100px;
 }
+h2{
+    text-align: center;
+}
 
 #Contenido{
-    background:#3E065F;
-    color: white;
+    background:white;
+    color:black;
     float:left;
     width: calc(80% - 10px);
     min-height: 500px;
-    text-align: center;
+    text-align:left;
 
 }
 
@@ -75,5 +78,7 @@ ul , ol{
 .Menu li:hover > ul{
      display: block;
 }
+.circular img{
+    border-radius: 50%;
 
-
+}
