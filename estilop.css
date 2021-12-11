@@ -1,0 +1,26 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(image.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background: #000000;
+    color: white;
+    height: 100px;
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+    line-height: 100px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: center;
+    color: white;
+}
